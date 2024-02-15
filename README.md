@@ -1,4 +1,6 @@
-# React + Vite
+# MacBookAirM2
+
+Page MacBookAirM2 developed witn ReactJS-Vite and Tailwind
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
