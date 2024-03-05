@@ -131,7 +131,7 @@ function App() {
         </div>
       </div>
 
-      <div className="justify-items-center justify-center flex h-20 grid gap-4 content-center ">
+      <div className="justify-items-center justify-center flex h-20 gap-4 content-center ">
         <Avatar.Group>
           <Avatar shape="circle" size="lg" stacked={true} img={Avatar1} />
           <Avatar shape="circle" size="lg" stacked={true} img={Avatar2} />
