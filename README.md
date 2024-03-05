@@ -1,8 +1,5 @@
 # MacBookAirM2
-
 MackBookAir with ViteJS and Tailwind
-
-Responsive:
 
 Screen Lg
 <p align="center">
