@@ -59,7 +59,11 @@ function App() {
         id="Wallpaper"
       >
         <h1 className="text-2xl lg:text-6xl">MacBookAirM2</h1>
-        <img src={Logo} alt="slider-1" className="h-1/2 lg:h-full w-1/2" />
+        <img
+          src={Logo}
+          alt="slider-1"
+          className="h-1/2 lg:h-full w-1/2 mt-10"
+        />
       </div>
 
       <div className="flex justify-around" id="Descripcion">
@@ -138,8 +142,8 @@ function App() {
         </Avatar.Group>
       </div>
 
-      <div class="container mx-auto mt-10">
-        <h1 class="text-4xl font-bold text-end">Tamaño y peso</h1>
+      <div class="container p-5 mt-10">
+        <h1 class="text-4xl font-bold text-end ">Tamaño y peso</h1>
         <br></br>
         <div class="flex items-center justify-center ">
           <img
@@ -157,7 +161,7 @@ function App() {
         </div>
       </div>
 
-      <div class="container mx-auto mt-10">
+      <div class="container mx-auto p-5 mt-10">
         <h1 class="text-4xl font-bold text-start">Memoria y Almacenamiento</h1>
         <br></br>
         <div class="flex items-center justify-center ">
