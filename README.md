@@ -1,10 +1,16 @@
 # MacBookAirM2
 
 <div align="justify">
-  MackBookAir with ViteJS and Tailwind
+  MackBookAirM2 with ViteJS and Tailwind
 </div>
+</br>
 <div align="center">
-  <img src="https://github.com/EdgarHdzHdz17/MacBookAirM2/assets/47467891/ab8d0a59-b7ab-4604-b5e2-209e078474b3">
+  <img src="https://github.com/EdgarHdzHdz17/MacBookAirM2/assets/47467891/5ba28ade-0163-4e68-848d-7e3f40138e21">
+</div>
+
+## Screenshots
+<div align="center">
+  <img src="https://github.com/EdgarHdzHdz17/MacBookAirM2/assets/47467891/4af6aa97-c07a-47c1-99c9-9110c3f46efa" width="80%">
 </div>
 
 ## Run Locally
